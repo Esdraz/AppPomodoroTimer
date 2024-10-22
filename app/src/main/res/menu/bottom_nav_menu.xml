@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_timer"
+        android:icon="@drawable/ic_timer"
+        android:title="timer" />
+
+    <item
+        android:id="@+id/menu_tasks"
+        android:icon="@drawable/ic_tasks"
+        android:title="tarefas" />
+
+    <item
+        android:id="@+id/menu_statistics"
+        android:icon="@drawable/ic_history"
+        android:title="estatísticas" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="opções" />
+</menu>
